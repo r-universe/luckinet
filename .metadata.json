@@ -1,8 +1,5 @@
 [
   {
-    "package": "ontologics"
-  },
-  {
     "package": "tabshiftr",
     "oncran": true
   }
