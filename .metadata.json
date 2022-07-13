@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "tabshiftr",
+    "oncran": true
+  }
+]
