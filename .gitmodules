@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "tabshiftr"]
-	path = tabshiftr
-	url = https://github.com/luckinet/tabshiftr
-	shallow = true
-	registered = true
 [submodule "ontologics"]
 	path = ontologics
 	url = https://github.com/luckinet/ontologics
+	shallow = true
+	registered = true
+[submodule "tabshiftr"]
+	path = tabshiftr
+	url = https://github.com/luckinet/tabshiftr
 	shallow = true
 	registered = true
