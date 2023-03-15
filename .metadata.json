@@ -1,10 +1,10 @@
 [
   {
-    "package": "ontologics",
+    "package": "tabshiftr",
     "oncran": true
   },
   {
-    "package": "tabshiftr",
+    "package": "ontologics",
     "oncran": true
   }
 ]
