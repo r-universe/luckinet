@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "arealDB"]
+	path = arealDB
+	url = https://github.com/luckinet/arealdb
+	shallow = true
+	registered = true
 [submodule "ontologics"]
 	path = ontologics
 	url = https://github.com/luckinet/ontologics
